@@ -1,12 +1,10 @@
-# 🧮 Simple Calculator
+# ❓ Quiz App
 
-A basic calculator built using **HTML, CSS, and JavaScript**.
+A simple quiz application built using **HTML, CSS, and JavaScript**.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Multiple-choice questions
+- Instant score display
 - Responsive Design
 
 ## Technologies
